@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarvesh025
 - 👀 Interested in Web Development 
-- 🌱 Currently learning Nextjs 
+- 🌱 Currently doing Nextjs 
 - 💞️ Looking to collaborate with Start-ups
 - 📫 How to reach me sarveshkumarroy1@gmail.com
 
