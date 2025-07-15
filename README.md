@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sarvesh025
-- 👀 Interested in Web Development 
-- 🌱 Currently doing Nextjs 
-- 💞️ Looking to collaborate with Start-ups
+- 👀 A Full Stack Web Developer
+- 🌱 Currently working with Nextjs and other dev tools
+- 💞️ Looking to collaborate with Product-based Start-ups
 - 📫 How to reach me sarveshkumarroy1@gmail.com
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Sarvesh025&theme=dark)](https://git.io/streak-stats)
